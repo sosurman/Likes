@@ -1,2 +1,2 @@
-# Likes
-this is a story about likes
+# Profile
+this is a story about profile
